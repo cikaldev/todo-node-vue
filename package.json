@@ -1,0 +1,19 @@
+{
+  "name": "todo-node-vue",
+  "version": "1.0.0",
+  "description": "Latihan Todo dengan Nodejs dan Vuejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Cikal Studio <cikaldev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
